@@ -1,0 +1,4 @@
+*.bak*
+statusline-last.json
+.env*
+*.log

@@ -1,0 +1,12 @@
+{
+  "name": "statusdeck",
+  "description": "statusdeck status line for Claude Code",
+  "owner": { "name": "Synx33", "url": "https://github.com/Synx33" },
+  "plugins": [
+    {
+      "name": "statusdeck",
+      "source": "./",
+      "description": "A labeled, full-width status line for Claude Code with 7 color themes."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "statusdeck",
+  "version": "1.0.0",
+  "description": "A labeled, full-width status line for Claude Code: context window, rate limits, cache, cost and more, with 7 color themes.",
+  "author": { "name": "Synx33", "url": "https://github.com/Synx33" },
+  "homepage": "https://github.com/Synx33/statusdeck",
+  "repository": "https://github.com/Synx33/statusdeck",
+  "license": "MIT",
+  "keywords": ["statusline", "status-line", "theme", "context-window"]
+}
